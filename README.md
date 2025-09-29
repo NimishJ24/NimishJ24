@@ -46,7 +46,8 @@ Here's a deeper dive into some of my key projects. Each repository contains deta
 ### 🛡️ SafeSite AI – PPE Safety Detection & Compliance System
 *An intelligent system to enhance workplace safety through real-time monitoring of Personal Protective Equipment.*
 
-![SafeSite AI Dashboard](assets/norma.jpg))
+
+<img src="https://github.com/NimishJ24/NimishJ24/blob/main/asset/crowded.jpg" height="300"><img src="https://github.com/NimishJ24/NimishJ24/blob/main/asset/helmet2.jpg" height="300"> <br>
 
 This project addresses a critical gap in industrial safety by moving beyond simple presence detection of PPE. The system uses a **YOLOv8** model to detect 6 classes of safety gear and, crucially, employs a custom rule-based engine and **pose estimation** to verify that the equipment is being worn correctly. This novel approach, which is the subject of an **ongoing patent process**, drastically reduces false positives and provides an auditable log for compliance. The model achieved a **mAP@50 of 0.959** on a dataset of over 3,800 annotated images.
 
@@ -57,7 +58,7 @@ This project addresses a critical gap in industrial safety by moving beyond simp
 ### 🧠 Sequential-Behavioral Mining for Adaptive Authentication
 *A self-adaptive security system that models user behavior to detect anomalies and dynamically adjust authentication requirements.*
 
-![Adaptive Authentication Prompt](https://i.imgur.com/u772OqY.png)
+<img src="https://github.com/NimishJ24/NimishJ24/blob/main/asset/dashboard.jpg" height="200"><img src="https://github.com/NimishJ24/NimishJ24/blob/main/asset/check.jpg" height="200"> <br>
 
 This project reimagines authentication security by creating a system that learns a user's unique digital "fingerprint." It continuously monitors sequential behavioral data—like **keystroke dynamics (typing speed, error rate), mouse movements, and application focus**—using unsupervised learning models like **Isolation Forests**. When behavior deviates from the established norm, the system flags it as an anomaly and can trigger a secondary challenge, like an OTP, providing a layer of security that is both intelligent and non-intrusive.
 
