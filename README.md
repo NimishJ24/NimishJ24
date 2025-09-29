@@ -69,7 +69,6 @@ This project reimagines authentication security by creating a system that learns
 ### 🩺 Automated Diagnosis of Skin Diseases via Deep Learning
 *A computer vision model for classifying 24 different types of skin diseases, designed to assist dermatologists and improve diagnostic accessibility.*
 
-![Skin Disease Classification Examples]([LINK_TO_AN_IMAGE_SHOWCASING_SKIN_DISEASE_EXAMPLES])
 
 To tackle the challenge of accurately classifying a wide range of skin conditions, I employed **transfer learning** by fine-tuning a pre-trained **XceptionNet** architecture. The model was trained on a diverse dataset, and I implemented a robust pipeline of **data augmentation** techniques (rotation, zoom, flips) to improve its generalization capabilities across different skin tones and image qualities. This project highlights my ability to adapt state-of-the-art models for specialized medical imaging tasks.
 
