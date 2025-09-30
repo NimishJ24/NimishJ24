@@ -24,6 +24,18 @@ I believe in continuous learning and applying my skills to new and challenging d
 -   📊 **Data-Driven Insights**: I'm leveraging my experience in Exploratory Data Analysis (EDA) to ensure that every model I build is not only accurate but also grounded in a solid understanding of the data it's trained on.
 
 ---
+
+## 🌐 My Portfolio Website
+
+For a more detailed look at my projects, research, and experience, please visit my personal portfolio website.
+
+<a href="https://my-portfolio-tau-one-69.vercel.app/" target="_blank">
+    <img src="asset/portfolio.jpg" height="300"> <br>
+</a>
+
+**[➡️ Visit My Portfolio Here](https://my-portfolio-tau-one-69.vercel.app/)**
+
+
 ---
 
 ## 🛠️ My Technical Skillset
